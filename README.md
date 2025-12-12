@@ -1,2 +1,7 @@
 # A-Web-Integrated-Machine-Learning-Model-for-Delhi-AQI-Prediction-to-Support-Public-Health-Awareness
 The Delhi Air Prediction Web Application is an AI-assisted platform designed to forecast next-day Air Quality Index (AQI) using machine learning models trained on Delhi’s historical environmental data. The system integrates real-time monitoring, predictive analytics, interactive visualizations, and an AI-powered chatbot to support public awareness, and healthcare readiness.
+
+#### Contributors
+- Shweta Gurram
+- Shruti Shingare
+- Shivani Upparwad
